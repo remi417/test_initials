@@ -1,0 +1,9 @@
+print("""
+RRRR   PPPP
+R   R  P   P
+R   R  P   P
+RRRR   PPPP
+R  R   P
+R   R  P
+R   R  P
+""")
